@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jagankumarpatra/DSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jagankumarpatra/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Heap (Priority Queue)
@@ -80,6 +82,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 ## Geometry
 |  |
