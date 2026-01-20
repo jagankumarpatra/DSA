@@ -15,6 +15,7 @@
 | [1975-maximum-matrix-sum](https://github.com/jagankumarpatra/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jagankumarpatra/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jagankumarpatra/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jagankumarpatra/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
