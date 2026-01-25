@@ -14,6 +14,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jagankumarpatra/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jagankumarpatra/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/jagankumarpatra/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagankumarpatra/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jagankumarpatra/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jagankumarpatra/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -72,6 +73,7 @@
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jagankumarpatra/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagankumarpatra/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jagankumarpatra/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagankumarpatra/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
