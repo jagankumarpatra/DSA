@@ -25,6 +25,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jagankumarpatra/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3637-trionic-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
