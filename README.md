@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jagankumarpatra/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jagankumarpatra/DSA/tree/master/1390-four-divisors) |
@@ -102,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jagankumarpatra/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jagankumarpatra/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Two Pointers
@@ -130,6 +132,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
@@ -139,6 +142,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
