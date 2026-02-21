@@ -46,6 +46,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jagankumarpatra/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jagankumarpatra/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jagankumarpatra/DSA/tree/master/1390-four-divisors) |
 ## Greedy
@@ -139,6 +140,7 @@
 | [0190-reverse-bits](https://github.com/jagankumarpatra/DSA/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/jagankumarpatra/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jagankumarpatra/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jagankumarpatra/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
