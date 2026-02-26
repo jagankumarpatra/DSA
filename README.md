@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jagankumarpatra/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagankumarpatra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jagankumarpatra/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -105,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagankumarpatra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/jagankumarpatra/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jagankumarpatra/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -163,6 +165,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagankumarpatra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/jagankumarpatra/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagankumarpatra/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Graph Theory
