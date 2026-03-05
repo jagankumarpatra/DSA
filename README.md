@@ -114,6 +114,7 @@
 | [0696-count-binary-substrings](https://github.com/jagankumarpatra/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jagankumarpatra/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jagankumarpatra/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jagankumarpatra/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jagankumarpatra/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Two Pointers
 |  |
