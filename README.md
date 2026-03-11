@@ -148,6 +148,7 @@
 | [0401-binary-watch](https://github.com/jagankumarpatra/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jagankumarpatra/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jagankumarpatra/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/jagankumarpatra/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
