@@ -22,6 +22,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jagankumarpatra/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/jagankumarpatra/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagankumarpatra/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2906-construct-product-matrix](https://github.com/jagankumarpatra/DSA/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jagankumarpatra/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jagankumarpatra/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jagankumarpatra/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -63,6 +64,7 @@
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jagankumarpatra/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/jagankumarpatra/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/jagankumarpatra/DSA/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jagankumarpatra/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
 |  |
@@ -138,6 +140,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jagankumarpatra/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [2906-construct-product-matrix](https://github.com/jagankumarpatra/DSA/tree/master/2906-construct-product-matrix) |
 ## Enumeration
 |  |
 | ------- |
