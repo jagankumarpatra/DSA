@@ -29,6 +29,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jagankumarpatra/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jagankumarpatra/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jagankumarpatra/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -65,6 +66,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jagankumarpatra/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/jagankumarpatra/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/jagankumarpatra/DSA/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jagankumarpatra/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jagankumarpatra/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
 |  |
@@ -141,11 +143,13 @@
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jagankumarpatra/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [2906-construct-product-matrix](https://github.com/jagankumarpatra/DSA/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jagankumarpatra/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jagankumarpatra/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jagankumarpatra/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jagankumarpatra/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Bit Manipulation
 |  |
 | ------- |
