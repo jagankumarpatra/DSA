@@ -120,6 +120,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagankumarpatra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
+| [0657-robot-return-to-origin](https://github.com/jagankumarpatra/DSA/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/jagankumarpatra/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jagankumarpatra/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jagankumarpatra/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
+| [0657-robot-return-to-origin](https://github.com/jagankumarpatra/DSA/tree/master/0657-robot-return-to-origin) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jagankumarpatra/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
