@@ -56,6 +56,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/jagankumarpatra/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jagankumarpatra/DSA/tree/master/1390-four-divisors) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jagankumarpatra/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3783-mirror-distance-of-an-integer](https://github.com/jagankumarpatra/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
