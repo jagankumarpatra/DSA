@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jagankumarpatra/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/jagankumarpatra/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagankumarpatra/DSA/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/jagankumarpatra/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -50,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jagankumarpatra/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/jagankumarpatra/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -66,6 +68,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jagankumarpatra/DSA/tree/master/0048-rotate-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jagankumarpatra/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/jagankumarpatra/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/jagankumarpatra/DSA/tree/master/2906-construct-product-matrix) |
