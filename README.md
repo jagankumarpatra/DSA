@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/jagankumarpatra/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagankumarpatra/DSA/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/jagankumarpatra/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jagankumarpatra/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagankumarpatra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jagankumarpatra/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0015-3sum](https://github.com/jagankumarpatra/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagankumarpatra/DSA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagankumarpatra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/jagankumarpatra/DSA/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/jagankumarpatra/DSA/tree/master/0696-count-binary-substrings) |
