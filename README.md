@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/jagankumarpatra/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -215,6 +216,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/jagankumarpatra/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jagankumarpatra/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Backtracking
