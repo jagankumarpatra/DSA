@@ -20,6 +20,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/jagankumarpatra/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/jagankumarpatra/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1345-jump-game-iv](https://github.com/jagankumarpatra/DSA/tree/master/1345-jump-game-iv) |
 | [1390-four-divisors](https://github.com/jagankumarpatra/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jagankumarpatra/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jagankumarpatra/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -45,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagankumarpatra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1345-jump-game-iv](https://github.com/jagankumarpatra/DSA/tree/master/1345-jump-game-iv) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jagankumarpatra/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jagankumarpatra/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1345-jump-game-iv](https://github.com/jagankumarpatra/DSA/tree/master/1345-jump-game-iv) |
 ## Binary Tree
 |  |
 | ------- |
