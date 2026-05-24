@@ -24,6 +24,7 @@
 | [1390-four-divisors](https://github.com/jagankumarpatra/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/jagankumarpatra/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jagankumarpatra/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jagankumarpatra/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jagankumarpatra/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/jagankumarpatra/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagankumarpatra/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
