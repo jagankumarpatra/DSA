@@ -29,6 +29,7 @@
 | [1975-maximum-matrix-sum](https://github.com/jagankumarpatra/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagankumarpatra/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/jagankumarpatra/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/jagankumarpatra/DSA/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jagankumarpatra/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jagankumarpatra/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jagankumarpatra/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [2574-left-and-right-sum-differences](https://github.com/jagankumarpatra/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/jagankumarpatra/DSA/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jagankumarpatra/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
