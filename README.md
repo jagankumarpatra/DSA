@@ -43,6 +43,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/jagankumarpatra/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jagankumarpatra/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3838-weighted-word-mapping](https://github.com/jagankumarpatra/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jagankumarpatra/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jagankumarpatra/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jagankumarpatra/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3838-weighted-word-mapping](https://github.com/jagankumarpatra/DSA/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jagankumarpatra/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3838-weighted-word-mapping](https://github.com/jagankumarpatra/DSA/tree/master/3838-weighted-word-mapping) |
 ## Doubly-Linked List
 |  |
 | ------- |
