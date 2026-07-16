@@ -44,6 +44,7 @@
 | [3637-trionic-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jagankumarpatra/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3838-weighted-word-mapping](https://github.com/jagankumarpatra/DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jagankumarpatra/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jagankumarpatra/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jagankumarpatra/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jagankumarpatra/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jagankumarpatra/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jagankumarpatra/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jagankumarpatra/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jagankumarpatra/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -210,6 +214,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jagankumarpatra/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3838-weighted-word-mapping](https://github.com/jagankumarpatra/DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -254,4 +259,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jagankumarpatra/DSA/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
