@@ -108,11 +108,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jagankumarpatra/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jagankumarpatra/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jagankumarpatra/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jagankumarpatra/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
@@ -123,6 +125,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jagankumarpatra/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jagankumarpatra/DSA/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
