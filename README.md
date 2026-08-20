@@ -39,6 +39,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jagankumarpatra/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jagankumarpatra/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jagankumarpatra/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jagankumarpatra/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jagankumarpatra/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -231,6 +232,7 @@
 | [0657-robot-return-to-origin](https://github.com/jagankumarpatra/DSA/tree/master/0657-robot-return-to-origin) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jagankumarpatra/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jagankumarpatra/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/jagankumarpatra/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3838-weighted-word-mapping](https://github.com/jagankumarpatra/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
