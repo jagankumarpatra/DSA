@@ -87,6 +87,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jagankumarpatra/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/jagankumarpatra/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jagankumarpatra/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jagankumarpatra/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jagankumarpatra/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
