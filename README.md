@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jagankumarpatra/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jagankumarpatra/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -126,12 +127,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jagankumarpatra/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/jagankumarpatra/DSA/tree/master/1345-jump-game-iv) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jagankumarpatra/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Divide and Conquer
