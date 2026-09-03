@@ -50,6 +50,7 @@
 | [3731-find-missing-elements](https://github.com/jagankumarpatra/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/jagankumarpatra/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jagankumarpatra/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jagankumarpatra/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jagankumarpatra/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jagankumarpatra/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jagankumarpatra/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
