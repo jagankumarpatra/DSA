@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jagankumarpatra/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/jagankumarpatra/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagankumarpatra/DSA/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/jagankumarpatra/DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/jagankumarpatra/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0015-3sum](https://github.com/jagankumarpatra/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagankumarpatra/DSA/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/jagankumarpatra/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/jagankumarpatra/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
