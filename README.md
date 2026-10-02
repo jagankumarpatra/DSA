@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jagankumarpatra/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/jagankumarpatra/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jagankumarpatra/DSA/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagankumarpatra/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/jagankumarpatra/DSA/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/jagankumarpatra/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jagankumarpatra/DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1345-jump-game-iv](https://github.com/jagankumarpatra/DSA/tree/master/1345-jump-game-iv) |
@@ -145,6 +147,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jagankumarpatra/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/jagankumarpatra/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -154,6 +157,7 @@
 | [0016-3sum-closest](https://github.com/jagankumarpatra/DSA/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/jagankumarpatra/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jagankumarpatra/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jagankumarpatra/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -326,4 +330,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jagankumarpatra/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jagankumarpatra/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jagankumarpatra/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jagankumarpatra/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
