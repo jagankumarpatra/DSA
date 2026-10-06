@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jagankumarpatra/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagankumarpatra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jagankumarpatra/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -205,6 +206,7 @@
 | [0027-remove-element](https://github.com/jagankumarpatra/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/jagankumarpatra/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagankumarpatra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/jagankumarpatra/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/jagankumarpatra/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -290,6 +292,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jagankumarpatra/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagankumarpatra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/jagankumarpatra/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jagankumarpatra/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Backtracking
