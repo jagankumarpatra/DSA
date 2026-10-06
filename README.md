@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagankumarpatra/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jagankumarpatra/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/jagankumarpatra/DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/jagankumarpatra/DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/jagankumarpatra/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jagankumarpatra/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -210,6 +211,7 @@
 | [0125-valid-palindrome](https://github.com/jagankumarpatra/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagankumarpatra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/jagankumarpatra/DSA/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/jagankumarpatra/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/jagankumarpatra/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/jagankumarpatra/DSA/tree/master/0977-squares-of-a-sorted-array) |
