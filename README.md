@@ -188,6 +188,7 @@
 | [0020-valid-parentheses](https://github.com/jagankumarpatra/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/jagankumarpatra/DSA/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/jagankumarpatra/DSA/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/jagankumarpatra/DSA/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/jagankumarpatra/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jagankumarpatra/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -206,6 +207,7 @@
 | [0027-remove-element](https://github.com/jagankumarpatra/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/jagankumarpatra/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/jagankumarpatra/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagankumarpatra/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jagankumarpatra/DSA/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/jagankumarpatra/DSA/tree/master/0696-count-binary-substrings) |
