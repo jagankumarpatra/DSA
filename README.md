@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/jagankumarpatra/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagankumarpatra/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/jagankumarpatra/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jagankumarpatra/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jagankumarpatra/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jagankumarpatra/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
@@ -75,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jagankumarpatra/DSA/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/jagankumarpatra/DSA/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/jagankumarpatra/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jagankumarpatra/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -206,6 +208,7 @@
 | [0015-3sum](https://github.com/jagankumarpatra/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jagankumarpatra/DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/jagankumarpatra/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jagankumarpatra/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jagankumarpatra/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jagankumarpatra/DSA/tree/master/0125-valid-palindrome) |
@@ -329,6 +332,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jagankumarpatra/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jagankumarpatra/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jagankumarpatra/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jagankumarpatra/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -353,4 +357,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jagankumarpatra/DSA/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jagankumarpatra/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
